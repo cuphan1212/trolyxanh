@@ -1,30 +1,15 @@
-﻿rác nhựa@
-♻️ Rác nhựa bỏ vào THÙNG VÀNG nhé! Nhớ rửa sạch trước khi bỏ.@
-túi nilon@
-♻️ Túi nilon là rác nhựa, bỏ thùng vàng. Hãy dùng túi vải thay thế!@
-rác thực phẩm@
-🌿 Rác thực phẩm như vỏ trái cây, thức ăn thừa → bỏ THÙNG XANH LÁ. Có thể làm phân bón!@
-rác hữu cơ@
-🌿 Rác hữu cơ bỏ thùng xanh lá. Rất tốt để ủ phân compost!@
-pin@
-⚠️ Pin và rác điện tử rất độc hại! Bỏ vào THÙNG ĐỎ, tuyệt đối không bỏ chung rác thường.@
-rác điện tử@
-⚠️ Điện thoại cũ, pin, máy tính hỏng → THÙNG ĐỎ. Độc hại cho đất và nước ngầm!@
-tiết kiệm điện@
-💡 3 cách tiết kiệm điện: Tắt đèn khi ra khỏi phòng, dùng bóng LED, không để TV chế độ chờ.@
-tiết kiệm nước@
-💧 Khóa vòi khi đánh răng, dùng vòi hoa sen thay bồn tắm, tái dùng nước rửa rau tưới cây.@
-biến đổi khí hậu@
-🌡️ Trái Đất đang nóng lên do khí CO₂. Hậu quả: băng tan, nước biển dâng, bão lũ nhiều hơn.@
-khí co2@
-🏭 CO₂ sinh ra từ xe máy, nhà máy, đốt rác. Trồng cây giúp hấp thụ CO₂!@
-nước biển dâng@
-🌊 Băng ở Bắc Cực tan do Trái Đất nóng lên khiến nước biển dâng cao, đe dọa các vùng ven biển.@
-ô nhiễm không khí@
-😷 Ô nhiễm không khí do khói xe, nhà máy. Đeo khẩu trang, trồng cây xanh quanh nhà giúp ích!@
-phân loại rác@
-🗑️ Phân loại rác gồm 3 loại: Thùng vàng (tái chế), Thùng xanh lá (hữu cơ), Thùng đỏ (nguy hại).@
-trồng cây@
-🌱 Trồng cây giúp hấp thụ CO₂, giảm nhiệt độ, chống lũ lụt và tạo không khí trong lành!@
-tái chế@
-♻️ Tái chế giúp giảm rác thải, tiết kiệm tài nguyên. Giấy, nhựa, kim loại đều tái chế được!
+﻿rác nhựa@♻️ Rác nhựa bỏ vào THÙNG VÀNG nhé! Nhớ rửa sạch trước khi bỏ.@
+túi nilon@♻️ Túi nilon là rác nhựa, bỏ thùng vàng. Hãy dùng túi vải thay thế!@
+rác thực phẩm@🌿 Rác thực phẩm như vỏ trái cây, thức ăn thừa → bỏ THÙNG XANH LÁ. Có thể làm phân bón!@
+rác hữu cơ@🌿 Rác hữu cơ bỏ thùng xanh lá. Rất tốt để ủ phân compost!@
+pin@⚠️ Pin và rác điện tử rất độc hại! Bỏ vào THÙNG ĐỎ, tuyệt đối không bỏ chung rác thường.@
+rác điện tử@⚠️ Điện thoại cũ, pin, máy tính hỏng → THÙNG ĐỎ. Độc hại cho đất và nước ngầm!@
+tiết kiệm điện@💡 3 cách tiết kiệm điện: Tắt đèn khi ra khỏi phòng, dùng bóng LED, không để TV chế độ chờ.@
+tiết kiệm nước@💧 Khóa vòi khi đánh răng, dùng vòi hoa sen thay bồn tắm, tái dùng nước rửa rau tưới cây.@
+biến đổi khí hậu@🌡️ Trái Đất đang nóng lên do khí CO₂. Hậu quả: băng tan, nước biển dâng, bão lũ nhiều hơn.@
+khí co2@🏭 CO₂ sinh ra từ xe máy, nhà máy, đốt rác. Trồng cây giúp hấp thụ CO₂!@
+nước biển dâng@🌊 Băng ở Bắc Cực tan do Trái Đất nóng lên khiến nước biển dâng cao, đe dọa các vùng ven biển.@
+ô nhiễm không khí@😷 Ô nhiễm không khí do khói xe, nhà máy. Đeo khẩu trang, trồng cây xanh quanh nhà giúp ích!@
+phân loại rác@🗑️ Phân loại rác gồm 3 loại: Thùng vàng (tái chế), Thùng xanh lá (hữu cơ), Thùng đỏ (nguy hại).@
+trồng cây@🌱 Trồng cây giúp hấp thụ CO₂, giảm nhiệt độ, chống lũ lụt và tạo không khí trong lành!@
+tái chế@♻️ Tái chế giúp giảm rác thải, tiết kiệm tài nguyên. Giấy, nhựa, kim loại đều tái chế được!
